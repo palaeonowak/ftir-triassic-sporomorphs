@@ -1,0 +1,156 @@
+﻿id,filename,sample,specimen,specimen_sample,Taxon,Genus,Family,Order,Class,Formation,Treatment,AcquisitionBy
+s001,aj27_atr_64s_4cm_s01.dat,AJ027H,MB.Pb.2010/82,MB.Pb.2010/82   ,Asterotheca cf. thalensis,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Erfurt Fm.,Macerated,HN
+s002,aj27_atr_64s_4cm_s02.dat,AJ027H,MB.Pb.2010/82,MB.Pb.2010/82   ,Asterotheca cf. thalensis,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Erfurt Fm.,Macerated,HN
+s003,as001_atr_64s_4cm_ob01a.dat,AS001,1878B/0006/9946,1878B/0006/9946   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s004,as001_atr_64s_4cm_ob01b.dat,AS001,1878B/0006/9946,1878B/0006/9946   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s005,as001_atr_64s_4cm_ob02a.dat,AS001,1878B/0006/9946,1878B/0006/9946   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s006,as001_atr_64s_4cm_ob02b.dat,AS001,1878B/0006/9946,1878B/0006/9946   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s007,as008_atr_64s_4cm_ob01b.dat,AS008,1884/0012/1214,1884/0012/1214 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s008,as008_atr_64s_4cm_ob01c.dat,AS008,1884/0012/1214,1884/0012/1214 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s009,as015_atr_64s_4cm_ob01a.dat,AS015,1885/0012/3939,1885/0012/3939 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s010,as015_atr_64s_4cm_ob01b.dat,AS015,1885/0012/3939,1885/0012/3939 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s011,as015_atr_64s_4cm_ob02a.dat,AS015,1885/0012/3939,1885/0012/3939 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s012,as015_atr_64s_4cm_ob02c.dat,AS015,1885/0012/3939,1885/0012/3939 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s013,as015_atr_64s_4cm_ob02d.dat,AS015,1885/0012/3939,1885/0012/3939 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s014,as017_atr_64s_4cm_ob01a.dat,AS017,1885/0012/3939,1885/0012/3939 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s015,as017_atr_64s_4cm_ob01b.dat,AS017,1885/0012/3939,1885/0012/3939 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s016,as017_atr_64s_4cm_ob01c.dat,AS017,1885/0012/3939,1885/0012/3939 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s017,as028_atr_64s_4cm_ob01a.dat,AS028,1882/0013/3059,1882/0013/3059 (3),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s018,as029_atr_64s_4cm_ob01a.dat,AS029,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s019,as029_atr_64s_4cm_ob01b.dat,AS029,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s020,as029_atr_64s_4cm_ob01c.dat,AS029,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s021,as029_atr_64s_4cm_ob02a.dat,AS029,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s022,as029_atr_64s_4cm_ob02b.dat,AS029,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s023,as030_atr_64s_4cm_ob01a.dat,AS030,1885/0012/4069,1885/0012/4069 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s024,as030_atr_64s_4cm_ob01b.dat,AS030,1885/0012/4069,1885/0012/4069 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s025,as031_atr_64s_4cm_ob01a.dat,AS031,2019/0185/0003,2019/0185/0003   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s026,as031_atr_64s_4cm_ob01b.dat,AS031,2019/0185/0003,2019/0185/0003   ,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s027,as035_atr_64s_4cm_ob01a.dat,AS035,2010/0102/0183,2010/0102/0183 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s028,as035_atr_64s_4cm_ob01b.dat,AS035,2010/0102/0183,2010/0102/0183 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s029,as036_atr_64s_4cm_ob01a.dat,AS036,2010/0102/0183,2010/0102/0183 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s030,as036_atr_64s_4cm_ob01b.dat,AS036,2010/0102/0183,2010/0102/0183 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s031,mb030_atr_64s_4cm_ob01a.dat,MB030,MB.Pb.2003/1099,MB.Pb.2003/1099 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s032,mb030_atr_64s_4cm_ob01b.dat,MB030,MB.Pb.2003/1099,MB.Pb.2003/1099 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s033,mb033_atr_64s_4cm_ob01a.dat,MB033,MB.Pb.2003/1099,MB.Pb.2003/1099 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s034,mb033_atr_64s_4cm_ob01b.dat,MB033,MB.Pb.2003/1099,MB.Pb.2003/1099 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s035,mb033_atr_64s_4cm_ob02a.dat,MB033,MB.Pb.2003/1099,MB.Pb.2003/1099 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s036,mb033_atr_64s_4cm_ob02b.dat,MB033,MB.Pb.2003/1099,MB.Pb.2003/1099 (4),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s037,1883-c-5928-1-crushed_atr_64s_4cm_s01.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s038,1883-c-5928-1-crushed_atr_64s_4cm_s02.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s039,1883-c-5928-1-crushed_atr_64s_4cm_s03.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s040,1883-c-5928-1-crushed_atr_64s_4cm_s04.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s041,1883-c-5928-1-crushed_atr_64s_4cm_s05.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s042,1883-c-5928-1-crushed_atr_64s_4cm_s06.dat,1883-C-5928-1-CRUSHED,1883/0017/5928,1883/0017/5928 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s043,1885-d-3963-2-crushed_atr_64s_4cm_s01.dat,1885-D-3963-2-CRUSHED,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s044,1885-d-3963-2-crushed_atr_64s_4cm_s02.dat,1885-D-3963-2-CRUSHED,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s045,1885-d-3963-2-crushed_atr_64s_4cm_s03.dat,1885-D-3963-2-CRUSHED,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s046,1885-d-3963-2-crushed_atr_64s_4cm_s04.dat,1885-D-3963-2-CRUSHED,1885/0012/3939,1885/0012/3939 (2),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s047,1885-d-4093-1-crushed_atr_64s_4cm_s01.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s048,1885-d-4093-1-crushed_atr_64s_4cm_s02.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s049,1885-d-4093-1-crushed_atr_64s_4cm_s03.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s050,1885-d-4093-1-crushed_atr_64s_4cm_s04.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s051,1885-d-4093-1-crushed_atr_64s_4cm_s05.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s052,1885-d-4093-1-crushed_atr_64s_4cm_s06.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s053,1885-d-4093-1-crushed_atr_64s_4cm_s07.dat,1885-D-4093-1-CRUSHED,1885/0012/4093,1885/0012/4093 (1),Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s054,mb-pb-2003-1099-crushed_atr_128s_4cm_s01a.dat,MB-PB-2003-1099-CRUSHED,MB.Pb.2003/1099,MB.Pb.2003/1099,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s055,mb-pb-2003-1099-crushed_atr_128s_4cm_s02.dat,MB-PB-2003-1099-CRUSHED,MB.Pb.2003/1099,MB.Pb.2003/1099,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s056,mb-pb-2003-1099-crushed_atr_128s_4cm_s03.dat,MB-PB-2003-1099-CRUSHED,MB.Pb.2003/1099,MB.Pb.2003/1099,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s057,mb-pb-2003-1099-crushed_atr_128s_4cm_s06.dat,MB-PB-2003-1099-CRUSHED,MB.Pb.2003/1099,MB.Pb.2003/1099,Asterotheca merianii,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Unmacerated,HN
+s058,ma16_atr_64s_4cm_s01.dat,MA016H,1885/0012/3923,1885/0012/3923   ,Asterotheca sp. 1,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s059,ma16_atr_64s_4cm_s04.dat,MA016H,1885/0012/3923,1885/0012/3923   ,Asterotheca sp. 1,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s060,as033_atr_64s_4cm_ob01a.dat,AS033,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s061,as033_atr_64s_4cm_ob01b.dat,AS033,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s062,as033_atr_64s_4cm_ob02a.dat,AS033,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s063,as033_atr_64s_4cm_ob02b.dat,AS033,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s064,as034_atr_64s_4cm_ob01a.dat,AS034,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s065,as034_atr_64s_4cm_ob01b.dat,AS034,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,MK
+s066,as33_atr_64s_4cm_s01.dat,AS033H,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s067,as33_atr_64s_4cm_s02.dat,AS033H,1885/0012/3926,1885/0012/3926 (1),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s068,as34_atr_64s_4cm_s01.dat,AS034H,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s069,as34_atr_64s_4cm_s02.dat,AS034H,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s070,as34_atr_64s_4cm_s03.dat,AS034H,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s071,as34_atr_64s_4cm_s04.dat,AS034H,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s072,as34_atr_64s_4cm_s05.dat,AS034H,1885/0012/3926,1885/0012/3926 (2),Asterotheca sp. 2,Asterotheca,Psaroniaceae,Marattiales,Marattiopsida,Lunz Fm.,Macerated,HN
+s073,mb7_atr_64s_4cm_s01.dat,MB007H,MB.Pb.2019/502,MB.Pb.2019/502   ,Merianopteris augusta,Merianopteris,Psaroniaceae,Marattiales,Marattiopsida,Klettgau Fm.,Macerated,HN
+s074,mb7_atr_64s_4cm_s03.dat,MB007H,MB.Pb.2019/502,MB.Pb.2019/502   ,Merianopteris augusta,Merianopteris,Psaroniaceae,Marattiales,Marattiopsida,Klettgau Fm.,Macerated,HN
+s075,mb7_atr_64s_4cm_s04.dat,MB007H,MB.Pb.2019/502,MB.Pb.2019/502   ,Merianopteris augusta,Merianopteris,Psaroniaceae,Marattiales,Marattiopsida,Klettgau Fm.,Macerated,HN
+s076,mb7_atr_64s_4cm_s05.dat,MB007H,MB.Pb.2019/502,MB.Pb.2019/502   ,Merianopteris augusta,Merianopteris,Psaroniaceae,Marattiales,Marattiopsida,Klettgau Fm.,Macerated,HN
+s077,lt113_atr_64s_4cm_ob01a.dat,LF113,PAL 243,PAL 243 (1),Anomopteris mougeotii,Anomopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s078,lt113_atr_64s_4cm_ob01b.dat,LF113,PAL 243,PAL 243 (1),Anomopteris mougeotii,Anomopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s079,lt114_atr_64s_4cm_ob01a.dat,LF114,PAL 243,PAL 243 (2),Anomopteris mougeotii,Anomopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s080,lt114_atr_64s_4cm_ob01b.dat,LF114,PAL 243,PAL 243 (2),Anomopteris mougeotii,Anomopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s081,lt114_atr_64s_4cm_ob01c.dat,LF114,PAL 243,PAL 243 (2),Anomopteris mougeotii,Anomopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s082,lt123_atr_64s_4cm_ob01a.dat,LF123,PAL 257,PAL 257 (1),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s083,lt123_atr_64s_4cm_ob01b.dat,LF123,PAL 257,PAL 257 (1),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s084,lt123_atr_64s_4cm_ob01c.dat,LF123,PAL 257,PAL 257 (1),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s085,lt124_atr_64s_4cm_ob01a.dat,LF124,PAL 257,PAL 257 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s086,lt124_atr_64s_4cm_ob01b.dat,LF124,PAL 257,PAL 257 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s087,lt124_atr_64s_4cm_ob01c.dat,LF124,PAL 257,PAL 257 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s088,lt124_atr_64s_4cm_ob02a.dat,LF124,PAL 257,PAL 257 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s089,lt130_atr_64s_4cm_ob01a.dat,LF130,PAL 290,PAL 290 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s090,lt130_atr_64s_4cm_ob01b.dat,LF130,PAL 290,PAL 290 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s091,lt133_atr_64s_4cm_ob01a.dat,LF133,PAL 296,PAL 296 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s092,lt133_atr_64s_4cm_ob01b.dat,LF133,PAL 296,PAL 296 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s093,lt133_atr_64s_4cm_ob01c.dat,LF133,PAL 296,PAL 296 (2),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s094,lt134_atr_64s_4cm_ob01a.dat,LF134,PAL 296,PAL 296 (3),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s095,lt134_atr_64s_4cm_ob01b.dat,LF134,PAL 296,PAL 296 (3),Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s096,lt137_atr_64s_4cm_ob01a.dat,LF137,PAL 324,PAL 324   ,Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s097,lt137_atr_64s_4cm_ob01b.dat,LF137,PAL 324,PAL 324   ,Gordonopteris lorigae,Gordonopteris,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s098,lt106_atr_64s_4cm_ob01a.dat,LF106,PAL 380,PAL 380   ,Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s099,lt106_atr_64s_4cm_ob01b.dat,LF106,PAL 380,PAL 380   ,Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s100,ft1_atr_64s_4cm_s01.dat,FT001H,PAL 380,PAL 380 (1+),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s101,ft1_atr_64s_4cm_s02.dat,FT001H,PAL 380,PAL 380 (1+),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s102,ft1_atr_64s_4cm_s03.dat,FT001H,PAL 380,PAL 380 (1+),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s103,ft1_atr_64s_4cm_s04.dat,FT001H,PAL 380,PAL 380 (1+),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s104,ft1_atr_64s_4cm_s05.dat,FT001H,PAL 380,PAL 380 (1+),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s105,ft2_atr_64s_4cm_s01.dat,FT002H,PAL 380,PAL 380 (2),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s106,ft2_atr_64s_4cm_s02.dat,FT002H,PAL 380,PAL 380 (2),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s107,ft2_atr_64s_4cm_s03.dat,FT002H,PAL 380,PAL 380 (2),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s108,ft2_atr_64s_4cm_s04.dat,FT002H,PAL 380,PAL 380 (2),Scolopendrites grauvogelii,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s109,lt058_atr_64s_4cm_ob01a.dat,LF058,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s110,lt058_atr_64s_4cm_ob01b.dat,LF058,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s111,lf58_atr_64s_4cm_s01.dat,LF058H,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s112,lf58_atr_64s_4cm_s02.dat,LF058H,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s113,lf58_atr_64s_4cm_s03.dat,LF058H,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s114,lf58_atr_64s_4cm_s04.dat,LF058H,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s115,lf58_atr_64s_4cm_s05.dat,LF058H,PAL 395,PAL 395   ,Scolopendrites scolopendrioides,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,HN
+s116,lt143_atr_64s_4cm_ob01a.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s117,lt143_atr_64s_4cm_ob01b.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s118,lt143_atr_64s_4cm_ob01c.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s119,lt143_atr_64s_4cm_ob01d.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s120,lt143_atr_64s_4cm_ob01e.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s121,lt143_atr_64s_4cm_ob01f.dat,LF143,PAL 419,PAL 419 (1),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s122,lt144_atr_64s_4cm_ob01a.dat,LF144,PAL 419,PAL 419 (2),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s123,lt144_atr_64s_4cm_ob01b.dat,LF144,PAL 419,PAL 419 (2),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s124,lt144_atr_64s_4cm_ob02a.dat,LF144,PAL 419,PAL 419 (2),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s125,lt144_atr_64s_4cm_ob02b.dat,LF144,PAL 419,PAL 419 (2),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s126,lt144_atr_64s_4cm_ob02c.dat,LF144,PAL 419,PAL 419 (2),Scolopendrites sp.,Scolopendrites,Osmundaceae?,Osmundales?,Polypodiopsida,Dont Fm.,Macerated,MK
+s127,lt048_atr_64s_4cm_ob01a.dat,LF048,1882/0013/3054,1882/0013/3054 (1),Todites linnaeifolius,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s128,lt048_atr_64s_4cm_ob01b.dat,LF048,1882/0013/3054,1882/0013/3054 (1),Todites linnaeifolius,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s129,lt049_atr_64s_4cm_ob01a.dat,LF049,1882/0013/3054,1882/0013/3054 (2),Todites linnaeifolius,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s130,lt049_atr_64s_4cm_ob01b.dat,LF049,1882/0013/3054,1882/0013/3054 (2),Todites linnaeifolius,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s131,lt102_atr_64s_4cm_ob01b.dat,LF102,S148683-02,S148683-02   ,Todites sp.,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s132,lt102_atr_64s_4cm_ob02a.dat,LF102,S148683-02,S148683-02   ,Todites sp.,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s133,s148683-02_atr_64s_4cm_s01.dat,S148683-02,S148683-02,S148683-02,Todites sp.,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s134,s148683-02_atr_64s_4cm_s02.dat,S148683-02,S148683-02,S148683-02,Todites sp.,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s135,s148683-02_atr_64s_4cm_s03.dat,S148683-02,S148683-02,S148683-02,Todites sp.,Todites,Osmundaceae,Osmundales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s136,lt003_atr_64s_4cm_ob01a.dat,LF003,1883/0017/5950,1883/0017/5950 (1),Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s137,lt003_atr_64s_4cm_ob01b.dat,LF003,1883/0017/5950,1883/0017/5950 (1),Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s138,lt003_atr_64s_4cm_ob01c.dat,LF003,1883/0017/5950,1883/0017/5950 (1),Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Macerated,MK
+s139,1883-c-5950-crushed_atr_64s_4cm_s01.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s140,1883-c-5950-crushed_atr_64s_4cm_s02.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s141,1883-c-5950-crushed_atr_64s_4cm_s03.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s142,1883-c-5950-crushed_atr_64s_4cm_s04.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s143,1883-c-5950-crushed_atr_64s_4cm_s05.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s144,1883-c-5950-crushed_atr_64s_4cm_s06.dat,1883-C-5950-CRUSHED,1883/0017/5950,1883/0017/5950,Dictyophyllum serratum,Dictyophyllum,Dipteridaceae,Gleicheniales,Polypodiopsida,Lunz Fm.,Unmacerated,HN
+s145,ft10_atr_64s_4cm_s02.dat,FT010H,PAL 786,PAL 786 (1+),Voltzia recubariensis,Voltzia,Voltziaceae,Voltziales,Pinopsida,Dont Fm.,Macerated,HN
+s146,kj20_atr_64s_4cm_s01.dat,KJ020H,SMNS-P-118442a,SMNS-P-118442a (2),Willsiostrobus acuminatus,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Grès à Voltzia,Macerated,HN
+s147,kj20_atr_64s_4cm_s02.dat,KJ020H,SMNS-P-118442a,SMNS-P-118442a (2),Willsiostrobus acuminatus,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Grès à Voltzia,Macerated,HN
+s148,kj20_atr_64s_4cm_s03.dat,KJ020H,SMNS-P-118442a,SMNS-P-118442a (2),Willsiostrobus acuminatus,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Grès à Voltzia,Macerated,HN
+s149,kj20_atr_64s_4cm_s04.dat,KJ020H,SMNS-P-118442a,SMNS-P-118442a (2),Willsiostrobus acuminatus,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Grès à Voltzia,Macerated,HN
+s150,kj20_atr_64s_4cm_s05.dat,KJ020H,SMNS-P-118442a,SMNS-P-118442a (2),Willsiostrobus acuminatus,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Grès à Voltzia,Macerated,HN
+s151,kj73_atr_64s_4cm_s02.dat,KJ073H,SMNS-P-110024,SMNS-P-110024 (6),Willsiostrobus cf. willsii,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Erfurt Fm.,Macerated,HN
+s152,kj73_atr_64s_4cm_s03.dat,KJ073H,SMNS-P-110024,SMNS-P-110024 (6),Willsiostrobus cf. willsii,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Erfurt Fm.,Macerated,HN
+s153,kj73_atr_64s_4cm_s04.dat,KJ073H,SMNS-P-110024,SMNS-P-110024 (6),Willsiostrobus cf. willsii,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Erfurt Fm.,Macerated,HN
+s154,kj74_atr_64s_4cm_s02.dat,KJ074H,SMNS-P-110024,SMNS-P-110024 (7),Willsiostrobus cf. willsii,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Erfurt Fm.,Macerated,HN
+s155,kj74_atr_64s_4cm_s04.dat,KJ074H,SMNS-P-110024,SMNS-P-110024 (7),Willsiostrobus cf. willsii,Willsiostrobus,Voltziaceae,Voltziales,Pinopsida,Erfurt Fm.,Macerated,HN
