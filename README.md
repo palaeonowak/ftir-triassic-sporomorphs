@@ -1,2 +1,6 @@
-# ftir-triassic-sporomorphs
-FTIR spectra of in situ Triassic sporomorphs
+# FTIR spectra of *in situ* Triassic sporomorphs
+FTIR (Fourier-transform infrared) spectra have been obtained from well-preserved, chemically-treated and untreated fern spore and conifer pollen masses that were taken *in situ* from Middle and early Late Triassic plant fossils from several European deposits. The aim was to test the potential of these organic microfossils for chemotaxonomy. Although clear sporopollenin signatures are present, taxonomic signals are obscured due to various processes having altered and simplified the infrared spectra.
+
+The data and code presented here can be used to recreate the analyses and visualizations in the paper "*FTIR spectra of* in situ *Triassic sporomorphs*" / "*Espectros IR-TF de esporomorfos del Triásico* in situ" by Matthew S. Kent, Hendrik Nowak, Evelyn Kustatscher, Wesley T. Fraser and Barry H. Lomax (in preparation).
+
+This work was funded by the Forschungsfonds der Landesmuseen of the Bozen-Bolzano province as part of the project "*MAMPFT - Mikrosporen An MakroPflanzen-Fossilien der Trias*" (CUP H34I19000390005) and the Joint Project SNF-Südtirol "*WETTEST - When an Exceptional Triassic climate change (CPE) Triggers plant Evolution in the (Sub-)Tropics*" (SNF 200021L_219219; CUP H33C23001340003). MSK was funded via the Natural Environment Research Council (NERC, NE/R001324/1) and via a Research Grant from the Human Frontiers Science Program (Ref.-No: RGP0066/2021). HN was supported by NERC grant NE/T00392/1.
