@@ -122,13 +122,13 @@ avgplotspectrum_x_combo<-function(row_select_list){
   rownames(mean_specs)<-colnames(spectra)
   Kendall_dist=as.dist(1-cor(mean_specs, method = "kendall"))
   cols<-turbo(ns, begin = 0.1, end = 0.9)
-  linetypes<-c("solid", "44", "13", "1343", "73", "2262", "131343")
+  linetypes<-c("solid", "43", "12", "1343", "73", "2262", "131343")
   dendro<-as.dendrogram(hclust(Kendall_dist, method = "average"))
   dendro<-set(set(set(dendro, "leaves_pch", 19), "leaves_col", cols[order(names(row_select_list))][rank(labels(dendro))]), "leaves_cex", 1.2)
   
   par(mfrow = c(1, 2), mgp=c(2.2,1,0))
   par(mar=c(3.5,3.5,1,1))
-  plot(wavenumbers, mean_specs[,1], type="l", ylab="rescaled relative absorbance", xlab = expression(paste("wavenumber [cm"^"-1","]")), xlim = c(max(wavenumbers), min(wavenumbers)), ylim = c(min(specs), max(specs)), axes = FALSE, col=cols[1], lty=linetypes[1], lwd=2)
+  plot(wavenumbers, mean_specs[,1], type="l", ylab="rescaled relative absorbance", xlab = expression(paste("wavenumber [cm"^"-1","]")), xlim = c(max(wavenumbers), min(wavenumbers)), ylim = c(min(mean_specs), max(mean_specs)), axes = FALSE, col=cols[1], lty=linetypes[1], lwd=2)
   for(il in 2:ns){
     lines(wavenumbers, mean_specs[,il], type="l", col=cols[il], lty=linetypes[il], lwd=2)
   }
